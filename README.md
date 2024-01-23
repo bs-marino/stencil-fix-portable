@@ -3,10 +3,8 @@
 [![Stencil Fix Portable YouTube video](https://i.ytimg.com/vi/Am3ztQIkss0/maxresdefault.jpg)](https://youtu.be/Am3ztQIkss0 "Stencil Fix Portable")
 
 ## Assembly
-Perfboard top view
-![Top view](images/top.JPG)
-View when soldering (flipped from the top view)
-![Soldering view](images/bottom_soldering.JPG)
+I am not planning on using a circuit board.
+I will be using a "servo tester" to provide a PWM signal to the speed control.
 
 ## BOM
 | Part | Amount | Comment |
